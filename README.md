@@ -46,6 +46,9 @@ Function blocks developed to easily set and get values from the processing logic
 - [FB_VIRTUAL_STRING_MQTT](./docs/FunctionBlocks/FB_VIRTUAL_STRING_MQTT.md)
 - [FB_VIRTUAL_REAL_MQTT](./docs/FunctionBlocks/FB_VIRTUAL_REAL_MQTT.md)
 
+## HVAC
+Function blocks developed for environment control. Check out the [HVAC whitepaper](./docs/HVAC_whitepaper.md) to gain more in depth knowledge on the possibilities with the function blocks below.   
+
 # Additional functionality
 
 - [MQTT Birth and Last will message](./docs/AdditionalFunctionality/MQTT_Birth_and_Last_will_message.md)
